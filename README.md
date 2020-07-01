@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html><html>
 <head>
 	<title>speak</title>
 	<style>
